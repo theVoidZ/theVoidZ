@@ -1,5 +1,7 @@
 ### Hi there 👋
-[linkedin]: https://www.linkedin.com/in/zendouh-adel-153166125/
+
+[<img align="left" alt="zendouh-adel-153166125/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!--
 **theVoidZ/theVoidZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
